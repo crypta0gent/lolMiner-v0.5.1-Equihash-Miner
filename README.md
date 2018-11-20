@@ -27,8 +27,6 @@ The latest version release v0.6.1 includes the following optimizations , feature
 
 ✔︎ Added some colors 
 
- 
 
-For official direct download for Linux and Windows in ZIP package use the links below:
 
-ССЫЛКА...............................................................????????
+
