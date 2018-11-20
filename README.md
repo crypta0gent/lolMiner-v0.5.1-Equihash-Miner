@@ -1,0 +1,1 @@
+# lolMiner-v0.5.1-Equihash-Miner
