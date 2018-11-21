@@ -26,7 +26,3 @@ The latest version release v0.6.1 includes the following optimizations , feature
 ✔︎ Shortened the target printing to the first 16 characters
 
 ✔︎ Added some colors 
-
-
-
-
