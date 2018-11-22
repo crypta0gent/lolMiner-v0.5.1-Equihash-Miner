@@ -1,4 +1,4 @@
-lolMiner v0.6.1 Equihash Miner (Linux/Windows)
+lolMiner v0.6.1 Equihash Miner (Windows)
 
 lolMiner is an Equihash 144.5 (ASF, BTG, BTCZ, LitecoinZ, HeptaCoin, Safecoin, Snowgem, ZEL), Equihash 96.5 (Minexcoin) and Equihash 192.7 (ZERO & SafeCash) OpenCL based miner designed to work with NVIDIA and AMD GPUs. It can be run on any device that can execute OpenCL 1.1 code so CPU (Intel / AMD) as well as GPU (Intel / Nvidia / AMD).
 
